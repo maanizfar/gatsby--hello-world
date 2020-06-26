@@ -14,6 +14,9 @@ export default function Home() {
         <li>
           <Link to="/about/">About</Link>
         </li>
+        <li>
+          <Link to="https://github.com/maanizfar/gatsby-hello-world">Repo</Link>
+        </li>
       </ul>
     </div>
   )
